@@ -191,16 +191,23 @@
 
 <!-- ==================== CONNECT ==================== -->
 
+
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/vikash-digarse-80a18a3a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vikash.digasre373@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://github.com/VikashDigarse03">
-    <img src="https://img.shields.io/badge/GitHub-VikashDigarse03-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  💡 Always interested in learning, collaborating, and building useful technology.
+  💡 Open to learning, collaborating, and building useful technology.
 </p>
 
 <p align="center">
