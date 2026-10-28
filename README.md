@@ -214,10 +214,12 @@
 ## 📈 Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VikashDigarse03&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VikashDigarse03&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
 </p>
-
----
 
 <!-- ==================== CONNECT ==================== -->
 
